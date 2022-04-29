@@ -5,7 +5,8 @@
 # How to make your own test?
 
 ## Step 1: Upload Image
-Upload scanned image using the (+) button in ```home``` tab\n
+Upload scanned image using the (+) button in ```home``` tab
+
 Give it a name
 
 ## Step 2: Create Test
