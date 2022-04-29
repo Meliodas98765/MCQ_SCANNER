@@ -1,6 +1,6 @@
 # MCQ_Scanner_Team8
 
-[![Project Presentation]()](https://github.com/Meliodas98765/MCQ_SCANNER/blob/sidharth/SR_1.mp4)
+[![Project Presentation](https://github.com/Meliodas98765/MCQ_SCANNER/blob/sidharth/thumbnail.gif)](https://github.com/Meliodas98765/MCQ_SCANNER/blob/sidharth/SR_1.mp4)
 
 # How to make your own test?
 
