@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_upload_answers"
+        android:title="Upload Answer Key" />
+    <item
+        android:id="@+id/navigation_delete"
+        android:title="@string/title_Delete" />
+</menu>

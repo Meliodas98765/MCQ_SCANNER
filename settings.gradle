@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "MCQ_SCANNER"
+include ':app'
+include ':openCvJava'
+include ':sdk'

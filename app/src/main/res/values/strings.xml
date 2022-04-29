@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MCQ_SCANNER</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_Create_Test">Create Test</string>
+    <string name="title_Delete">Delete</string>
+    <string name="title_View">View</string>
+    <string name="cDescription"></string>
+    <string name="msg_please_wait">Please wait ..</string>
+    <string name="msgUploadInProgress">Uploading..</string>
+    <string name="msg_image_upload">Uploading..</string>
+</resources>
